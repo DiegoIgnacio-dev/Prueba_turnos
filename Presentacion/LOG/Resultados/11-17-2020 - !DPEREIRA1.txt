@@ -1,0 +1,308 @@
+[17-11-2020 -> 11:31:41] ID_ATE = 0
+[17-11-2020 -> 12:02:57] ID_ATE = 0
+[17-11-2020 -> 12:03:00] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 12:03:00] Cargando datos del paciente...
+[17-11-2020 -> 12:03:00] Paciente identificado:
+                         - RUT: 1-9
+                         - Nombre: MAGDALENA DEL PILAR
+[17-11-2020 -> 12:03:00] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:03:00] ID_ATE = 354902
+[17-11-2020 -> 12:09:21] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 12:09:21] Cargando datos del paciente...
+[17-11-2020 -> 12:09:22] Paciente identificado:
+                         - RUT: 1-9
+                         - Nombre: TEST
+[17-11-2020 -> 12:09:22] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:09:22] ID_ATE = 354902
+[17-11-2020 -> 12:11:26] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 12:11:26] Cargando datos del paciente...
+[17-11-2020 -> 12:11:26] Paciente identificado:
+                         - RUT: 1-9
+                         - Nombre: TEST
+[17-11-2020 -> 12:11:26] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:11:27] ID_ATE = 354902
+[17-11-2020 -> 12:12:45] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 12:12:45] Cargando datos del paciente...
+[17-11-2020 -> 12:12:45] Paciente identificado:
+                         - RUT: 1-9
+                         - Nombre: TEST
+[17-11-2020 -> 12:12:45] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:12:46] ID_ATE = 354902
+[17-11-2020 -> 12:13:18] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 12:13:18] Cargando datos del paciente...
+[17-11-2020 -> 12:15:09] Paciente identificado:
+                         - RUT: 1-9
+                         - Nombre: TEST
+[17-11-2020 -> 12:15:09] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:15:10] ID_ATE = 354902
+[17-11-2020 -> 12:24:30] ID_ATE = 0
+[17-11-2020 -> 12:24:33] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 12:24:33] Cargando datos del paciente...
+[17-11-2020 -> 12:24:38] Paciente identificado:
+                         - RUT: 9.322.045-5
+                         - Nombre: Patricia del Carmen
+[17-11-2020 -> 12:24:38] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:24:38] ID_ATE = 354668
+[17-11-2020 -> 12:24:41] Cargando resultados del paciente...
+[17-11-2020 -> 12:25:14] Cant. Resultados: 109
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:14] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844820
+                         Resultado: 4,62
+                         Evaluación: 4,62
+[17-11-2020 -> 12:25:14] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:14] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844864
+                         Resultado: 1,19
+                         Evaluación: 1,19
+[17-11-2020 -> 12:25:15] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:15] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844867
+                         Resultado: 2,56
+                         Evaluación: 2,56
+[17-11-2020 -> 12:25:15] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:15] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844868
+                         Resultado: 106
+                         Evaluación: 106
+[17-11-2020 -> 12:25:16] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:16] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844857
+                         Resultado: 2,70
+                         Evaluación: 2,70
+[17-11-2020 -> 12:25:17] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:17] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844858
+                         Resultado: 1,67
+                         Evaluación: 1,67
+[17-11-2020 -> 12:25:17] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:17] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844878
+                         Resultado: 1,50
+                         Evaluación: 1,50
+[17-11-2020 -> 12:25:18] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:18] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844824
+                         Resultado: 32,62
+                         Evaluación: 32,62
+[17-11-2020 -> 12:25:19] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:19] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844863
+                         Resultado: 81
+                         Evaluación: 81
+[17-11-2020 -> 12:25:19] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:20] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844865
+                         Resultado: 25
+                         Evaluación: 25
+[17-11-2020 -> 12:25:21] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:22] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844836
+                         Resultado: 100
+                         Evaluación: 100
+[17-11-2020 -> 12:25:25] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:25:26] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844825
+                         Resultado: 3014
+                         Evaluación: 3014
+[17-11-2020 -> 12:25:27] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:26:51] ID_ATE = 0
+[17-11-2020 -> 12:26:54] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 12:26:54] Cargando datos del paciente...
+[17-11-2020 -> 12:26:54] Paciente identificado:
+                         - RUT: 9.322.045-5
+                         - Nombre: Patricia del Carmen
+[17-11-2020 -> 12:26:54] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:26:55] ID_ATE = 354668
+[17-11-2020 -> 12:27:09] Cargando resultados del paciente...
+[17-11-2020 -> 12:27:40] Cant. Resultados: 109
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:40] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844863
+                         Resultado: 81
+                         Evaluación: 81
+[17-11-2020 -> 12:27:45] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:45] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844864
+                         Resultado: 1,19
+                         Evaluación: 1,19
+[17-11-2020 -> 12:27:45] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:45] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844867
+                         Resultado: 2,56
+                         Evaluación: 2,56
+[17-11-2020 -> 12:27:46] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:46] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844868
+                         Resultado: 106
+                         Evaluación: 106
+[17-11-2020 -> 12:27:46] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:46] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844857
+                         Resultado: 2,70
+                         Evaluación: 2,70
+[17-11-2020 -> 12:27:47] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:47] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844858
+                         Resultado: 1,67
+                         Evaluación: 1,67
+[17-11-2020 -> 12:27:48] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:48] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844878
+                         Resultado: 1,50
+                         Evaluación: 1,50
+[17-11-2020 -> 12:27:49] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:49] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844820
+                         Resultado: 4,62
+                         Evaluación: 4,62
+[17-11-2020 -> 12:27:49] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:50] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844825
+                         Resultado: 3014
+                         Evaluación: 3014
+[17-11-2020 -> 12:27:50] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:51] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844865
+                         Resultado: 25
+                         Evaluación: 25
+[17-11-2020 -> 12:27:51] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:52] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844824
+                         Resultado: 32,62
+                         Evaluación: 32,62
+[17-11-2020 -> 12:27:53] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 12:27:53] Actualizar Valor Numérico
+                         Usuario: DPEREIRA1
+                         ID Result: 11844836
+                         Resultado: 100
+                         Evaluación: 100
+[17-11-2020 -> 12:27:53] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 05:42:31] ID_ATE = 0
+[17-11-2020 -> 05:42:42] ID_ATE = 354934
+[17-11-2020 -> 05:42:43] El usuario DPEREIRA1 ha ingresado al formulario.
+[17-11-2020 -> 05:42:43] Cargando datos del paciente...
+[17-11-2020 -> 05:42:44] Paciente identificado:
+                         - RUT: 1-9
+                         - Nombre: TEST
+[17-11-2020 -> 05:42:44] Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 05:42:44] Cargando resultados del paciente...
+[17-11-2020 -> 05:42:45] Cant. Resultados: 1
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 05:42:58] Actualizar Valor Texto
+                         Usuario: DPEREIRA1
+                         ID Result: 11855310
+                         Resultado: Colección inadecuada test
+[17-11-2020 -> 05:42:58] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 05:43:02] Cargando resultados del paciente...
+[17-11-2020 -> 05:43:05] Cant. Resultados: 1
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 05:43:16] Actualizar Valor Texto
+                         Usuario: DPEREIRA1
+                         ID Result: 11855310
+                         Resultado: 5,0
+[17-11-2020 -> 05:43:17] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[17-11-2020 -> 05:43:18] Cargando resultados del paciente...
+[17-11-2020 -> 05:43:22] Cant. Resultados: 1
+                         Carga Completada.
+
+----------------------------------------------------------------------------------

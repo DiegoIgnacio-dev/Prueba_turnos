@@ -1,0 +1,70 @@
+﻿Imports Entidades
+Imports Datos
+Public Class N_IRIS_WEBF_BUSCA_DATOS_BOLETA_ELECTRONICA
+    'Declaraciones Generales
+    Dim DD_Data As D_IRIS_WEBF_BUSCA_DATOS_BOLETA_ELECTRONICA
+    Sub New()
+        DD_Data = New D_IRIS_WEBF_BUSCA_DATOS_BOLETA_ELECTRONICA
+    End Sub
+    Function IRIS_WEBF_BUSCA_DATOS_BOLETA_ELECTRONICA(ByVal FOLIO As String) As E_PARAMS_BE
+
+        Dim Params_Ret As New E_PARAMS_BE
+        Params_Ret = DD_Data.IRIS_WEBF_BUSCA_PARAMS_BOLETA_ELECTRONICA(FOLIO)
+        Params_Ret.Lst_Detalle = DD_Data.IRIS_WEBF_BUSCA_DETALLE_BOLETA_ELECTRONICA(FOLIO)
+
+        Return Params_Ret
+    End Function
+
+    Function IRIS_WEBF_REPORTE_BOLETA(ByVal DESDE As String, ByVal HASTA As String, ByVal ID_PROCEDENCIA As Integer) As List(Of E_IRIS_WEBF_REPORTE_BOLETA)
+
+        Return DD_Data.IRIS_WEBF_REPORTE_BOLETA(DESDE, HASTA, ID_PROCEDENCIA)
+    End Function
+    Function IRIS_WEBF_REPORTE_BOLETA_USUARIO_2(ByVal DESDE As String, ByVal HASTA As String, ByVal USU_NIC As String) As List(Of E_BOL_ATE)
+
+        Return DD_Data.IRIS_WEBF_REPORTE_BOLETA_USUARIO_2(DESDE, HASTA, USU_NIC)
+    End Function
+    Function IRIS_WEBF_REPORTE_BOLETA_USUARIO(ByVal DESDE As String, ByVal HASTA As String, ByVal USU_NIC As String) As List(Of E_BOL_ATE)
+
+        Return DD_Data.IRIS_WEBF_REPORTE_BOLETA_USUARIO(DESDE, HASTA, USU_NIC)
+    End Function
+    Function IRIS_WEBF_BUSCA_DATOS_BOLETA_FECHA(ByVal DESDE As String, ByVal HASTA As String) As List(Of E_BOL_ATE)
+
+        Return DD_Data.IRIS_WEBF_BUSCA_DATOS_BOLETA_FECHA(DESDE, HASTA)
+    End Function
+    Function IRIS_WEBF_BUSCA_DATOS_BOLETA_FECHA_3(ByVal DESDE As String, ByVal HASTA As String) As List(Of E_BOL_ATE)
+
+        Return DD_Data.IRIS_WEBF_BUSCA_DATOS_BOLETA_FECHA_3(DESDE, HASTA)
+    End Function
+    Function IRIS_WEBF_GUARDA_DATOS_BOLETA_ELECTRONICA(ByVal ATE_NUM As String, ByVal FOLIO_CNE As String, ByVal URL_BOLETA As String, ByVal USUARIO As String) As Integer
+
+        Return DD_Data.IRIS_WEBF_GUARDA_DATOS_BOLETA_ELECTRONICA(ATE_NUM, FOLIO_CNE, URL_BOLETA, USUARIO)
+    End Function
+    Function IRIS_WEBF_GUARDA_DATOS_NOTA_CREDITO(ByVal ATE_NUM As String, ByVal FOLIO_CNE As String, ByVal URL_BOLETA As String, ByVal USUARIO As String) As Integer
+
+        Return DD_Data.IRIS_WEBF_GUARDA_DATOS_NOTA_CREDITO(ATE_NUM, FOLIO_CNE, URL_BOLETA, USUARIO)
+    End Function
+
+    Function IRIS_WEBF_GUARDA_DATOS_DESVINCULAR_BE(ByVal ATE_NUM As String, ByVal FOLIO_CNE As String, ByVal USUARIO As String) As Integer
+
+        Return DD_Data.IRIS_WEBF_GUARDA_DATOS_DESVINCULAR_BE(ATE_NUM, FOLIO_CNE, USUARIO)
+    End Function
+    Function IRIS_WEBF_BUSCA_DATOS_ATE_BOLETA_ELECTRONICA(ByVal ATE_NUM As String) As E_IRIS_WEBF_CMVM_BUSCA_ATE_PAC_DIA_2
+
+        Return DD_Data.IRIS_WEBF_BUSCA_DATOS_ATE_BOLETA_ELECTRONICA(ATE_NUM)
+    End Function
+    Function IRIS_WEBF_BUSCA_RUTA_BOLETA_ELECTRONICA(ByVal ATE_NUM As String) As E_RUTA_DOC_BE
+
+        Return DD_Data.IRIS_WEBF_BUSCA_RUTA_BOLETA_ELECTRONICA(ATE_NUM)
+    End Function
+    Function IRIS_WEBF_BUSCA_USUARIO_CNE() As E_USU_CNE
+
+        Return DD_Data.IRIS_WEBF_BUSCA_USUARIO_CNE()
+    End Function
+    Function IRIS_WEBF_BUSCA_CORRELATIVO_B_ELECT() As Long
+        Return DD_Data.IRIS_WEBF_BUSCA_CORRELATIVO_B_ELECT()
+    End Function
+    Function IRIS_WEBF_BUSCA_CORRELATIVO_A_BOLET() As Long
+        Return DD_Data.IRIS_WEBF_BUSCA_CORRELATIVO_A_BOLET()
+    End Function
+
+End Class

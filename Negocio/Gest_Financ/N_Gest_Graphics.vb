@@ -1,0 +1,16 @@
+﻿Imports Datos
+Imports Entidades
+
+Public Class N_Gest_Graphics
+    Public Function IRIS_WEBF_CMVM_GRAPHICS_CANT_ATE_BY_PROC(ByVal DATE_01 As Date, ByVal DATE_02 As Date, ByVal ID_PROC As Long, ByVal ID_PREV As Long) As List(Of E_IRIS_WEBF_CMVM_GRAPHICS_CANT_ATE_BY_PROC)
+        Return (New D_Gest_Graphics).IRIS_WEBF_CMVM_GRAPHICS_CANT_ATE_BY_PROC(DATE_01, DATE_02, ID_PROC, ID_PREV)
+    End Function
+
+    Public Function IRIS_WEBF_CMVM_GRAPHICS_CANT_ATE_BY_PREV(ByVal DATE_01 As Date, ByVal DATE_02 As Date, ByVal ID_PROC As Long, ByVal ID_PREV As Long) As List(Of E_IRIS_WEBF_CMVM_GRAPHICS_CANT_ATE_BY_PREV)
+        Return (New D_Gest_Graphics).IRIS_WEBF_CMVM_GRAPHICS_CANT_ATE_BY_PREV(DATE_01, DATE_02, ID_PROC, ID_PREV)
+    End Function
+
+    Public Function IRIS_WEBF_CMVM_GRAPHICS_CANT_EXA_ESTADO_VALIDACION(ByVal DATE_01 As Date, ByVal DATE_02 As Date, ByVal ID_PROC As Long, ByVal ID_PREV As Long) As List(Of E_IRIS_WEBF_CMVM_GRAPHICS_CANT_EXA_ESTADO_VALIDACION)
+        Return (New D_Gest_Graphics).IRIS_WEBF_CMVM_GRAPHICS_CANT_EXA_ESTADO_VALIDACION(DATE_01, DATE_02, ID_PROC, ID_PREV)
+    End Function
+End Class

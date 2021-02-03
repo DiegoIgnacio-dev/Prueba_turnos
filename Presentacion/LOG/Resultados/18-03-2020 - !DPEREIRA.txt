@@ -1,0 +1,28 @@
+[18/03/2020 -> 12:56:30] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[18/03/2020 -> 12:56:33] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[18/03/2020 -> 12:56:38] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 17/03/2020
+                             - Hasta         : 18/03/2020
+                             - Procedencia   : TODOS
+                             - Previsión     : ALFAMEDICA
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[18/03/2020 -> 12:56:38] Consulta completada en 00:00:00
+[18/03/2020 -> 12:56:38] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[18/03/2020 -> 05:53:01] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 18/03/2020
+                             - Hasta         : 18/03/2020
+                             - Procedencia   : TODOS
+                             - Previsión     : ALFAMEDICA
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[18/03/2020 -> 05:53:02] Consulta completada en 00:00:00
+[18/03/2020 -> 05:53:02] Datos enviados al Front End
+----------------------------------------------------------------------------------

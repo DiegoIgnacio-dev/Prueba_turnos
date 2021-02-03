@@ -1,0 +1,65 @@
+[14/04/2020 -> 06:14:48] ID_ATE = 0
+[14/04/2020 -> 06:15:38] El usuario DPEREIRA ha ingresado al formulario.
+[14/04/2020 -> 06:15:38] Cargando datos del paciente...
+[14/04/2020 -> 06:15:38] Paciente identificado:
+                         - RUT: 25.771.662-7
+                         - Nombre: ANDREA
+[14/04/2020 -> 06:15:38] Carga Completada.
+
+----------------------------------------------------------------------------------
+[14/04/2020 -> 06:15:38] ID_ATE = 2021774
+[14/04/2020 -> 06:17:55] El usuario DPEREIRA ha ingresado al formulario.
+[14/04/2020 -> 06:17:55] Cargando datos del paciente...
+[14/04/2020 -> 06:18:23] Paciente identificado:
+                         - RUT: 25.771.662-7
+                         - Nombre: ANDREA
+[14/04/2020 -> 06:18:27] Carga Completada.
+
+----------------------------------------------------------------------------------
+[14/04/2020 -> 06:18:51] ID_ATE = 2021774
+[14/04/2020 -> 06:19:04] El usuario DPEREIRA ha ingresado al formulario.
+[14/04/2020 -> 06:19:04] Cargando datos del paciente...
+[14/04/2020 -> 06:19:09] Paciente identificado:
+                         - RUT: 25.771.662-7
+                         - Nombre: ANDREA
+[14/04/2020 -> 06:19:09] Carga Completada.
+
+----------------------------------------------------------------------------------
+[14/04/2020 -> 06:19:09] ID_ATE = 2021774
+[14/04/2020 -> 06:20:49] El usuario DPEREIRA ha ingresado al formulario.
+[14/04/2020 -> 06:20:49] Cargando datos del paciente...
+[14/04/2020 -> 06:20:49] Paciente identificado:
+                         - RUT: 25.771.662-7
+                         - Nombre: ANDREA
+[14/04/2020 -> 06:20:49] Carga Completada.
+
+----------------------------------------------------------------------------------
+[14/04/2020 -> 06:20:50] ID_ATE = 2021774
+[14/04/2020 -> 06:23:24] El usuario DPEREIRA ha ingresado al formulario.
+[14/04/2020 -> 06:23:24] Cargando datos del paciente...
+[14/04/2020 -> 06:23:24] Paciente identificado:
+                         - RUT: 25.771.662-7
+                         - Nombre: ANDREA
+[14/04/2020 -> 06:23:24] Carga Completada.
+
+----------------------------------------------------------------------------------
+[14/04/2020 -> 06:23:25] ID_ATE = 2021774
+[14/04/2020 -> 06:23:25] Cargando resultados del paciente...
+[14/04/2020 -> 06:23:25] Cant. Resultados: 2
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[14/04/2020 -> 06:23:32] El usuario DPEREIRA ha ingresado al formulario.
+[14/04/2020 -> 06:23:32] Cargando datos del paciente...
+[14/04/2020 -> 06:23:32] Paciente identificado:
+                         - RUT: 25.771.662-7
+                         - Nombre: ANDREA
+[14/04/2020 -> 06:23:32] Carga Completada.
+
+----------------------------------------------------------------------------------
+[14/04/2020 -> 06:23:33] ID_ATE = 2021774
+[14/04/2020 -> 06:23:33] Cargando resultados del paciente...
+[14/04/2020 -> 06:23:33] Cant. Resultados: 2
+                         Carga Completada.
+
+----------------------------------------------------------------------------------

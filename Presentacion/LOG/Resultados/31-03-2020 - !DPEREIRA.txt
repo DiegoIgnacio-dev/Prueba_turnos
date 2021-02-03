@@ -1,0 +1,368 @@
+[31-03-2020 -> 12:32:09] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 31-03-2020
+                             - Hasta         : 31-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 12:32:10] Consulta completada en 00:00:01
+[31-03-2020 -> 12:32:10] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 12:32:15] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 30-03-2020
+                             - Hasta         : 31-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 12:32:17] Consulta completada en 00:00:02
+[31-03-2020 -> 12:32:17] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 12:38:01] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 31-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 12:38:04] Consulta completada en 00:00:02
+[31-03-2020 -> 12:38:04] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:34:26] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 31-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:36:28] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 30-03-2020
+                             - Hasta         : 30-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:36:29] Consulta completada en 00:00:00
+[31-03-2020 -> 02:36:29] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:36:37] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 30-03-2020
+                             - Hasta         : 30-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 02:36:38] Consulta completada en 00:00:01
+[31-03-2020 -> 02:36:38] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:37:02] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 02:37:03] Consulta completada en 00:00:00
+[31-03-2020 -> 02:37:03] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:37:36] Consulta completada en 00:03:10
+[31-03-2020 -> 02:37:36] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:37:47] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:37:47] Consulta completada en 00:00:00
+[31-03-2020 -> 02:37:47] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:38:11] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 02:38:12] Consulta completada en 00:00:00
+[31-03-2020 -> 02:38:12] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:38:36] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:38:36] Consulta completada en 00:00:00
+[31-03-2020 -> 02:38:36] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:40:25] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 02:40:26] Consulta completada en 00:00:00
+[31-03-2020 -> 02:40:26] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:40:40] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 26-03-2020
+                             - Hasta         : 26-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 02:40:40] Consulta completada en 00:00:00
+[31-03-2020 -> 02:40:40] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:40:48] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 26-03-2020
+                             - Hasta         : 26-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:40:49] Consulta completada en 00:00:00
+[31-03-2020 -> 02:40:49] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:47:43] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:47:51] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 01-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:47:58] Consulta completada en 00:00:06
+[31-03-2020 -> 02:47:58] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:56:52] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:56:55] Consulta completada en 00:00:02
+[31-03-2020 -> 02:56:55] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:57:48] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:57:52] Consulta completada en 00:00:03
+[31-03-2020 -> 02:57:52] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 02:59:27] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 02:59:30] Consulta completada en 00:00:03
+[31-03-2020 -> 02:59:30] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:00:39] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 03:01:06] Consulta completada en 00:00:27
+[31-03-2020 -> 03:01:06] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:03:03] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 03:03:27] Consulta completada en 00:00:23
+[31-03-2020 -> 03:03:27] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:06:35] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:06:40] Consulta completada en 00:00:05
+[31-03-2020 -> 03:06:40] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:07:15] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:07:26] Consulta completada en 00:00:11
+[31-03-2020 -> 03:07:26] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:09:21] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:09:25] Consulta completada en 00:00:03
+[31-03-2020 -> 03:09:25] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:10:01] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:10:04] Consulta completada en 00:00:02
+[31-03-2020 -> 03:10:04] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:11:04] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:11:07] Consulta completada en 00:00:03
+[31-03-2020 -> 03:11:07] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:12:04] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:12:07] Consulta completada en 00:00:03
+[31-03-2020 -> 03:12:07] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:12:49] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:12:52] Consulta completada en 00:00:03
+[31-03-2020 -> 03:12:52] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:14:58] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:15:01] Consulta completada en 00:00:02
+[31-03-2020 -> 03:15:01] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 03:20:07] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : False
+
+[31-03-2020 -> 03:20:10] Consulta completada en 00:00:02
+[31-03-2020 -> 03:20:10] Armando Excel...
+                             Total pacientes = 97
+
+[31-03-2020 -> 03:20:12] Pacientes Registrados = 97
+[31-03-2020 -> 03:20:13] Archivo generado en 00:00:02
+[31-03-2020 -> 03:20:13] Armando y enviando Correo
+[31-03-2020 -> 03:20:50] Correo enviado correctamente
+----------------------------------------------------------------------------------
+[31-03-2020 -> 05:12:33] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 03-03-2020
+                             - Hasta         : 03-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : QUINTA NORMAL
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 05:12:36] Consulta completada en 00:00:03
+[31-03-2020 -> 05:12:36] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[31-03-2020 -> 06:34:02] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 31-03-2020
+                             - Hasta         : 31-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[31-03-2020 -> 06:34:03] Consulta completada en 00:00:01
+[31-03-2020 -> 06:34:03] Datos enviados al Front End
+----------------------------------------------------------------------------------

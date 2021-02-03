@@ -1,0 +1,105 @@
+[30-03-2020 -> 11:50:07] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 30-03-2020
+                             - Hasta         : 30-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[30-03-2020 -> 11:50:08] Consulta completada en 00:00:00
+[30-03-2020 -> 11:50:08] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[30-03-2020 -> 11:50:13] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[30-03-2020 -> 11:50:14] Consulta completada en 00:00:00
+[30-03-2020 -> 11:50:14] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[30-03-2020 -> 11:50:19] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[30-03-2020 -> 11:50:20] Consulta completada en 00:00:00
+[30-03-2020 -> 11:50:20] Armando Excel...
+                             Total pacientes = 19
+
+[30-03-2020 -> 11:50:22] Pacientes Registrados = 19
+[30-03-2020 -> 11:50:22] Archivo generado en 00:00:02
+[30-03-2020 -> 11:50:22] Armando y enviando Correo
+[30-03-2020 -> 11:50:43] Correo enviado correctamente
+----------------------------------------------------------------------------------
+[30-03-2020 -> 11:54:12] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[30-03-2020 -> 11:54:12] Consulta completada en 00:00:00
+[30-03-2020 -> 11:54:12] Armando Excel...
+                             Total pacientes = 19
+
+[30-03-2020 -> 11:54:14] Pacientes Registrados = 19
+[30-03-2020 -> 11:54:14] Archivo generado en 00:00:02
+[30-03-2020 -> 11:54:14] Armando y enviando Correo
+[30-03-2020 -> 11:54:35] Correo enviado correctamente
+----------------------------------------------------------------------------------
+[30-03-2020 -> 02:58:30] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[30-03-2020 -> 02:58:30] Consulta completada en 00:00:00
+[30-03-2020 -> 02:58:30] Armando Excel...
+                             Total pacientes = 19
+
+[30-03-2020 -> 02:58:32] Pacientes Registrados = 19
+[30-03-2020 -> 02:58:33] Archivo generado en 00:00:02
+[30-03-2020 -> 02:58:33] Armando y enviando Correo
+[30-03-2020 -> 02:58:54] Correo enviado correctamente
+----------------------------------------------------------------------------------
+[30-03-2020 -> 03:01:57] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 27-03-2020
+                             - Hasta         : 27-03-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : PEÑALOLEN
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[30-03-2020 -> 03:01:58] Consulta completada en 00:00:00
+[30-03-2020 -> 03:01:58] Armando Excel...
+                             Total pacientes = 19
+
+[30-03-2020 -> 03:02:00] Pacientes Registrados = 19
+[30-03-2020 -> 03:02:00] Archivo generado en 00:00:02
+[30-03-2020 -> 03:02:00] Armando y enviando Correo
+[30-03-2020 -> 03:02:21] Correo enviado correctamente
+----------------------------------------------------------------------------------
+[30-03-2020 -> 05:01:53] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[30-03-2020 -> 05:02:11] Armando Excel...
+                             Total pacientes = 0
+
+[30-03-2020 -> 05:02:11] La búsqueda no arrojó resultados...
+[30-03-2020 -> 05:02:11] Armando y enviando Correo
+[30-03-2020 -> 05:02:33] Correo enviado correctamente
+----------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+[21-10-2020 -> 02:45:40] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[21-10-2020 -> 02:45:45] Datos enviados al Front End
+----------------------------------------------------------------------------------
+[21-10-2020 -> 02:53:49] Se ha Iniciado Solicitud de Resultados Filtrados:
+                             - Desde         : 20-10-2020
+                             - Hasta         : 20-10-2020
+                             - Procedencia   : TODOS
+                             - Previsión     : FONASA Nº 3
+                             - Programa      : TODOS
+                             - Subprograma   : TODOS
+                             - Ver Todos     : True
+
+[21-10-2020 -> 02:54:01] Consulta completada en 00:00:11
+[21-10-2020 -> 02:54:01] Datos enviados al Front End
+----------------------------------------------------------------------------------

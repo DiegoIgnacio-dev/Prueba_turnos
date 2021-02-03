@@ -1,0 +1,611 @@
+﻿----------------------------------------------------------------------------------
+[18 05 2018 -> 10:13:52] ERROR:
+    Código: 
+        57617011
+
+    Descripción: 
+        Communication link failure
+TCP Provider: El nombre de red especificado
+        ya no está disponible.
+
+    Stack Trace:        
+        
+en System.Data.OleDb.OleDbDataReader.ProcessResults(OleDbHResult hr)
+        
+  
+        
+en System.Data.OleDb.OleDbDataReader.NextResult()
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader()
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO, Int32 ID_PROC)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 244
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 51
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 128
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[18 05 2018 -> 10:17:26] ERROR:
+    Código: 
+        16996897
+
+    Descripción: 
+        Login timeout expired
+A network-related or instance-specific
+        error has occurred while establishing a connection to SQL Server.
+        Server is not found or not accessible. Check if instance name
+        is correct and if SQL Server is configured to allow remote connections.
+        For more information see SQL Server Books Online.
+TCP Provider:
+        Se produjo un error durante el intento de conexión ya que la
+        parte conectada no respondió adecuadamente tras un periodo de
+        tiempo, o bien se produjo un error en la conexión establecida
+        ya que el host conectado no ha podido responder.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Symbols.Container.InvokeMethod(Method TargetProcedure, Object[] Arguments, Boolean[] CopyBack, BindingFlags Flags)
+        
+  
+        
+en Microsoft.VisualBasic.CompilerServices.NewLateBinding.CallMethod(Container BaseReference, String MethodName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack, BindingFlags InvocationFlags, Boolean ReportErrors, ResolutionFailure& Failure)
+        
+  
+        
+en Microsoft.VisualBasic.CompilerServices.NewLateBinding.ObjectLateCall(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack, Boolean IgnoreReturn)
+        
+  
+        
+en Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateCall(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack, Boolean IgnoreReturn)
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO, Int32 ID_PROC)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 240
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 51
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 128
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[18 05 2018 -> 10:52:22] ERROR:
+    Código: 
+        50921372
+
+    Descripción: 
+        Protocol error in TDS stream
+Protocol error in TDS stream
+Protocol
+        error in TDS stream
+Communication link failure
+TCP Provider:
+        Se ha forzado la interrupción de una conexión existente por el
+        host remoto.
+
+    Stack Trace:        
+        
+en System.Data.OleDb.OleDbDataReader.ProcessResults(OleDbHResult hr)
+        
+  
+        
+en System.Data.OleDb.OleDbDataReader.GetRowHandles()
+        
+  
+        
+en System.Data.OleDb.OleDbDataReader.ReadRowset()
+        
+  
+        
+en System.Data.OleDb.OleDbDataReader.Read()
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO, Int32 ID_PROC)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 245
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 51
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 128
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[11-06-2018 -> 11:01:26] ERROR:
+    Código: 
+        18094219
+
+    Descripción: 
+        Communication link failure
+TCP Provider: Se agotó el tiempo
+        de espera del semáforo.
+
+    Stack Trace:        
+        
+en System.Data.OleDb.OleDbDataReader.ProcessResults(OleDbHResult hr)
+        
+  
+        
+en System.Data.OleDb.OleDbDataReader.NextResult()
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader()
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222_2(Int32 ID_ATE, Int32 ID_PER, String CB)
+        
+en C:\Users\cvelo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.vb:línea 126
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222_2(Int32 ID_ATE, Int32 ID_PER, String CB)
+        
+en C:\Users\cvelo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.vb:línea 18
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 156
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[11-06-2018 -> 11:14:37] ERROR:
+    Código: 
+        21619911
+
+    Descripción: 
+        Query timeout expired
+Communication link failure
+TCP Provider:
+        Se ha forzado la interrupción de una conexión existente por el
+        host remoto.
+
+    Stack Trace:        
+        
+en System.Data.OleDb.OleDbDataReader.ProcessResults(OleDbHResult hr)
+        
+  
+        
+en System.Data.OleDb.OleDbDataReader.NextResult()
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader()
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222_2(Int32 ID_ATE, Int32 ID_PER, String CB)
+        
+en C:\Users\cvelo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.vb:línea 126
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222_2(Int32 ID_ATE, Int32 ID_PER, String CB)
+        
+en C:\Users\cvelo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.vb:línea 18
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 156
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[11-06-2018 -> 11:18:04] ERROR:
+    Código: 
+        7503081
+
+    Descripción: 
+        Communication link failure
+TCP Provider: El nombre de red especificado
+        ya no está disponible.
+
+    Stack Trace:        
+        
+en System.Data.OleDb.OleDbDataReader.ProcessResults(OleDbHResult hr)
+        
+  
+        
+en System.Data.OleDb.OleDbDataReader.NextResult()
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+        
+  
+        
+en System.Data.OleDb.OleDbCommand.ExecuteReader()
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222_2(Int32 ID_ATE, Int32 ID_PER, String CB)
+        
+en C:\Users\cvelo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.vb:línea 126
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222_2(Int32 ID_ATE, Int32 ID_PER, String CB)
+        
+en C:\Users\cvelo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ESTADO_ATENCION_TRAZABILIDAD_TRAZA_NUEVO_222.vb:línea 18
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 156
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[19-06-2018 -> 06:17:22] ERROR:
+    Código: 
+        41237093
+
+    Descripción: 
+        Subproceso anulado.
+
+    Stack Trace:        
+        
+en System.Threading.Thread.AbortInternal()
+        
+  
+        
+en System.Threading.Thread.Abort(Object stateInfo)
+        
+  
+        
+en System.Web.HttpResponse.AbortCurrentThread()
+        
+  
+        
+en System.Web.HttpResponse.End()
+        
+  
+        
+en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+        
+  
+        
+en System.Web.HttpResponse.Redirect(String url)
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB_2(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 64
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:08:36] ERROR:
+    Código: 
+        45802215
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:09:57] ERROR:
+    Código: 
+        8663184
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:10:59] ERROR:
+    Código: 
+        37477991
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:12:49] ERROR:
+    Código: 
+        29573371
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:13:45] ERROR:
+    Código: 
+        48948862
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:16:57] ERROR:
+    Código: 
+        33492553
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:19:17] ERROR:
+    Código: 
+        46918067
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:20:23] ERROR:
+    Código: 
+        12669201
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22/06/2018 -> 11:20:39] ERROR:
+    Código: 
+        25378054
+
+    Descripción: 
+        Conversion from string "22-06-2018" to type 'Date' is not valid.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 130
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[12-07-2018 -> 04:36:48] ERROR:
+    Código: 
+        49562029
+
+    Descripción: 
+        Subproceso anulado.
+
+    Stack Trace:        
+        
+en System.Threading.Thread.AbortInternal()
+        
+  
+        
+en System.Threading.Thread.Abort(Object stateInfo)
+        
+  
+        
+en System.Web.HttpResponse.AbortCurrentThread()
+        
+  
+        
+en System.Web.HttpResponse.End()
+        
+  
+        
+en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+        
+  
+        
+en System.Web.HttpResponse.Redirect(String url)
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB_2(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en C:\Users\semeo\Documents\Source\Repos\IrisLab Web\IrisLAB Web - Holanda Rebuild\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 64
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en ROOT:\Check_List\Check_Point\Traza_Env_RecepLab.aspx.vb:línea 136
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22-05-2019 -> 11:51:41] ERROR:
+    Código: 
+        54975652
+
+    Descripción: 
+        La conversión de la cadena "COM-OR" en el tipo 'Integer' no es
+        válida.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+        
+  
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(Object Value)
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB_2(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO, Int32 ID_PROC, Int32 ID_USU)
+        
+en C:\Users\IrisLab04\Documents\Source\Repos\irislab-cisterna\WebPage - La Cisterna\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 346
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB_2(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en C:\Users\IrisLab04\Documents\Source\Repos\irislab-cisterna\WebPage - La Cisterna\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 66
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+[22-05-2019 -> 11:54:16] ERROR:
+    Código: 
+        49468199
+
+    Descripción: 
+        La conversión de la cadena "COM-OR" en el tipo 'Integer' no es
+        válida.
+
+    Stack Trace:        
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+        
+  
+        
+en Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(Object Value)
+        
+  
+        
+en Datos.D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB_2(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_ENVIO, Int32 ID_PROC, Int32 ID_USU)
+        
+en C:\Users\IrisLab04\Documents\Source\Repos\irislab-cisterna\WebPage - La Cisterna\Datos\Check_List\Check_Point\D_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 346
+        
+  
+        
+en Negocio.N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO_666_FECHAS_ENVIO_Y_RECEP_LAB_2(Int32 TIPO, DateTime DESDE, DateTime HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+        
+en C:\Users\IrisLab04\Documents\Source\Repos\irislab-cisterna\WebPage - La Cisterna\Negocio\Check_List\Check_Point\N_IRIS_WEBF_BUSCA_ETIQUETAS_NO_RECEPCIONADA_Y_OTRAS_RVDR_2_2_SECCCION_POR_FOLIO.vb:línea 66
+        
+  
+        
+en Presentacion.Traza_Env_RecepLab.Llenar_DataTable(Int32 TIPO, String DESDE, String HASTA, Int32 ID_PRE, Int32 ID_ENVIO)
+----------------------------------------------------------------------------------

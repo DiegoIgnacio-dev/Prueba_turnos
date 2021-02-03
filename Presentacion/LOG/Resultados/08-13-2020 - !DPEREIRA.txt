@@ -1,0 +1,262 @@
+[13/08/2020 -> 12:31:07] ID_ATE = 0
+[13/08/2020 -> 12:31:37] El usuario DPEREIRA ha ingresado al formulario.
+[13/08/2020 -> 12:31:37] Cargando datos del paciente...
+[13/08/2020 -> 12:31:37] Paciente identificado:
+                         - RUT: 17.315.311-2
+                         - Nombre: JOHANNA
+[13/08/2020 -> 12:31:37] Carga Completada.
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:31:38] ID_ATE = 2076223
+[13/08/2020 -> 12:31:38] Cargando resultados del paciente...
+[13/08/2020 -> 12:31:38] Cant. Resultados: 51
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:31:52] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671369
+                         Resultado: No hubo desarrollo bacteriano en 24 hrs de incubación
+[13/08/2020 -> 12:31:53] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:31:53] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671369
+                         Resultado: No hubo desarrollo bacteriano en 24 hrs de incubación
+[13/08/2020 -> 12:31:54] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:31:58] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671369
+                         Resultado: No hubo desarrollo bacteriano en 24 hrs de incubación
+[13/08/2020 -> 12:31:59] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:02] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671369
+                         Resultado: No hubo desarrollo bacteriano en 24 hrs de incubación
+[13/08/2020 -> 12:32:03] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:12] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671369
+                         Resultado: No hubo desarrollo bacteriano en 24 hrs de incubación
+[13/08/2020 -> 12:32:12] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:19] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671370
+                         Resultado: 
+[13/08/2020 -> 12:32:20] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:21] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671371
+                         Resultado: 
+[13/08/2020 -> 12:32:22] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:25] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671371
+                         Resultado: 
+[13/08/2020 -> 12:32:25] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:33] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671371
+                         Resultado: 
+[13/08/2020 -> 12:32:33] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:40] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671372
+                         Resultado: 
+[13/08/2020 -> 12:32:40] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:43] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671373
+                         Resultado: 
+[13/08/2020 -> 12:32:43] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:32:56] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671373
+                         Resultado: 
+[13/08/2020 -> 12:32:56] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:00] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671374
+                         Resultado: 
+[13/08/2020 -> 12:33:00] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:04] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671374
+                         Resultado: 
+[13/08/2020 -> 12:33:04] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:06] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671374
+                         Resultado: 
+[13/08/2020 -> 12:33:07] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:08] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671375
+                         Resultado: 
+[13/08/2020 -> 12:33:08] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:09] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671375
+                         Resultado: 
+[13/08/2020 -> 12:33:09] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:09] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671375
+                         Resultado: 
+[13/08/2020 -> 12:33:10] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:17] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671375
+                         Resultado: 
+[13/08/2020 -> 12:33:18] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:20] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671376
+                         Resultado: 
+[13/08/2020 -> 12:33:20] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:26] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671376
+                         Resultado: 
+[13/08/2020 -> 12:33:27] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:33:44] Actualizar Valor Texto
+                         Usuario: DPEREIRA
+                         ID Result: 84671377
+                         Resultado: 
+[13/08/2020 -> 12:33:44] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:51:40] ID_ATE = 0
+[13/08/2020 -> 12:51:42] El usuario DPEREIRA ha ingresado al formulario.
+[13/08/2020 -> 12:51:42] Cargando datos del paciente...
+[13/08/2020 -> 12:51:42] Paciente identificado:
+                         - RUT: 21.800.957-3
+                         - Nombre: ALBERTO
+[13/08/2020 -> 12:51:42] Carga Completada.
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:51:43] ID_ATE = 995
+[13/08/2020 -> 12:51:43] Cargando resultados del paciente...
+[13/08/2020 -> 12:51:43] Cant. Resultados: 24
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:51:45] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35221
+                         Resultado: 83,9
+                         Evaluación: 83,9
+[13/08/2020 -> 12:51:45] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:51:45] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35223
+                         Resultado: 32,7
+                         Evaluación: 32,7
+[13/08/2020 -> 12:51:46] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:51:46] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35235
+                         Resultado: 100
+                         Evaluación: 100
+[13/08/2020 -> 12:51:46] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 12:51:46] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35222
+                         Resultado: 27,4
+                         Evaluación: 27,4
+[13/08/2020 -> 12:51:47] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 01:01:50] El usuario DPEREIRA ha ingresado al formulario.
+[13/08/2020 -> 01:01:50] Cargando datos del paciente...
+[13/08/2020 -> 01:01:50] Paciente identificado:
+                         - RUT: 21.800.957-3
+                         - Nombre: ALBERTO
+[13/08/2020 -> 01:01:50] Carga Completada.
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 01:01:51] ID_ATE = 995
+[13/08/2020 -> 01:01:51] Cargando resultados del paciente...
+[13/08/2020 -> 01:01:51] Cant. Resultados: 24
+                         Carga Completada.
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 01:01:53] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35221
+                         Resultado: 83,9
+                         Evaluación: 83,9
+[13/08/2020 -> 01:01:53] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 01:01:53] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35222
+                         Resultado: 27,4
+                         Evaluación: 27,4
+[13/08/2020 -> 01:01:54] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 01:01:54] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35223
+                         Resultado: 32,7
+                         Evaluación: 32,7
+[13/08/2020 -> 01:01:54] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------
+[13/08/2020 -> 01:01:54] Actualizar Valor Numérico
+                         Usuario: DPEREIRA
+                         ID Result: 35235
+                         Resultado: 100
+                         Evaluación: 100
+[13/08/2020 -> 01:01:55] Campo actualizado correctamente
+
+----------------------------------------------------------------------------------

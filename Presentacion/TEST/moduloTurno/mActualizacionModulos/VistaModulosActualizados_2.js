@@ -23,7 +23,7 @@ $(document).ready(() => { //Función al cargar documento.
 
 //Funcion para el funcionamiento de  fecha + reloj
 var updateTime = function () {
-    //MESES
+    //Meses
     var meses = [
         'Ene',
         'Feb',

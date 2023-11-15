@@ -1,7 +1,7 @@
 ﻿let Turno_Actual = [];//arreglo que almacenara la respuesta de mis cartas
-//pequeño cambio :)
-$(document).ready(() => { //Función al cargar documento.
 
+$(document).ready(() => { //Función al cargar documento.
+//otro cambio sin sentido
     Ajax_Busca_Datos();
     updateTime();
 

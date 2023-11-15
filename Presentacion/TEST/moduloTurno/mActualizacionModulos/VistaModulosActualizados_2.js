@@ -38,7 +38,7 @@ var updateTime = function () {
         'Nov',
         'Dic'
     ]
-    //Dia de la semana
+    //Dia de la semana otro cambio en otra rama
     var diasSem = [
         'Dom',
         'Lun',

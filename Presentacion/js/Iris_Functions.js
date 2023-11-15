@@ -33,12 +33,15 @@ Iris_Print.prototype = {
 
         return $.ajax(this.AJAX);
     },
-    //Imprimir Voucher de Procedencia
+
+    //Imprimir voucher de procedencia
+
     "Imp_Voucher_Lugar_TM": function () {
         this.AJAX.url = "http://localhost:9990/Printer/Imp_Voucher_Lugar_TM";
 
         return $.ajax(this.AJAX);
     },
+
     //Imprimir Voucher de Comprobante Atencion
     "Imp_Voucher_Compr_Ate": function () {
         this.AJAX.url = "http://localhost:9990/Printer/Imp_Voucher_Compr_Ate";

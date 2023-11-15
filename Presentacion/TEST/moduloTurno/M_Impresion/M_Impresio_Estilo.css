@@ -1,0 +1,94 @@
+﻿body {
+    margin: 0;
+    padding: 0,;
+}
+
+#M_Impresion {
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+.card-header {
+    background-color: #006699;
+    color: white;
+    text-align: center;
+}
+
+.img-lateral {
+    max-width: 260px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.col {
+    text-align: center;
+    color: #2589bd;
+    font-size: 1.2rem;
+    margin: 0 auto;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+.btn-Print-Div {
+    /*//background-image:url("img/ICON_Atención_FULL-02.svg");*/
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 180px;
+    max-height: 200px;
+    margin: 10px auto;
+    
+}
+
+.btn-Print-Div-2 {
+    /*//background-image:url("img/ICON_Atención_FULL-02.svg");*/
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 80px;
+}
+/*#btn-Empresa{
+    background-image:url("img/ICON_Atención_FULL-03.svg");
+    background-position:center;
+    background-repeat:no-repeat;
+    width:130px;
+    height:130px;
+    margin:10px auto;
+}
+#btn-Examen{
+    background-image:url("img/ICON_Atención_FULL-04.svg");
+    background-position:center;
+    background-repeat:no-repeat;
+    width:130px;
+    height:130px;
+    margin:10px auto;
+}
+#btn-PCR{
+    background-image:url("img/ICON_Atención_FULL-05.svg");
+    background-position:center;
+    background-repeat:no-repeat;
+    width:130px;
+    height:130px;
+    margin:10px auto;
+}*/
+
+#btn-General:active {
+    width: 125px;
+    height: 125px;
+}
+
+#btn-Empresa:active {
+    width: 125px;
+    height: 125px;
+}
+
+#btn-Examen:active {
+    width: 125px;
+    height: 125px;
+}
+
+#btn-PCR:active {
+    width: 125px;
+    height: 125px;
+}

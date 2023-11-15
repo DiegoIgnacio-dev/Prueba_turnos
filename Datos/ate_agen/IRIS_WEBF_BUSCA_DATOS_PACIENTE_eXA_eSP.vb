@@ -1,3 +1,0 @@
-﻿Public Class IRIS_WEBF_BUSCA_DATOS_PACIENTE_eXA_eSP
-
-End Class

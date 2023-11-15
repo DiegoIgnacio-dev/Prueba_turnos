@@ -1,21 +1,21 @@
 ﻿/// <reference path="/bootstrap_data/vendor/jquery/jquery.js"/>
 /// <reference path="/Resourses/JS/Galletas.js"/>
 $(document).ready(function () {
-    var LoginStat = Galletas.getGalleta("LOGGED");
-    if (LoginStat == null || LoginStat == "false") {
-        xKillCookie();
-        window.location = "/Account/Login.aspx";
+    //var LoginStat = Galletas.getGalleta("LOGGED");
+    //if (LoginStat == null || LoginStat == "false") {
+    //    xKillCookie();
+    //    window.location = "/Account/Login.aspx";
 
-    } else {
-        Galletas.modTime("LOGGED", 30 * 60);
-        Galletas.modTime("ID_USER", 30 * 60);
-        Galletas.modTime("NICKNAME", 30 * 60);
-        Galletas.modTime("NAME", 30 * 60);
-        Galletas.modTime("SURNAME", 30 * 60);
-        Galletas.modTime("USU_ID_PROC", 30 * 60);
-        Galletas.modTime("P_ADMIN", 30 * 60);
-        Galletas.modTime("ID_PROF", 30 * 60);
-    }
+    //} else {
+    //    Galletas.modTime("LOGGED", 30 * 60);
+    //    Galletas.modTime("ID_USER", 30 * 60);
+    //    Galletas.modTime("NICKNAME", 30 * 60);
+    //    Galletas.modTime("NAME", 30 * 60);
+    //    Galletas.modTime("SURNAME", 30 * 60);
+    //    Galletas.modTime("USU_ID_PROC", 30 * 60);
+    //    Galletas.modTime("P_ADMIN", 30 * 60);
+    //    Galletas.modTime("ID_PROF", 30 * 60);
+    //}
 
     function xKillCookie() {
         Galletas.killGalleta("LOGGED");

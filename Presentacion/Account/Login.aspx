@@ -69,7 +69,7 @@
                 <img src="../Imagenes/La_Cisterna.jpg" style="max-height: 160px; width: auto; background-color: white;" class="img-fluid" alt="Responsive image" />
             </div>--%>
             <div class="col-md-8 text-center centerx">
-                <img src="../Imagenes/logoaleman.jpg" style="height: auto; max-width: 200px;" class="img-fluid" alt="Responsive image" />
+                
             </div>
         </div>
         <div class="container">
@@ -87,6 +87,7 @@
                             <label for="Txt_Pass">Contraseña:</label>
                             <input class="form-control" id="Txt_Pass" type="password" placeholder="Ingrese Contraseña">
                         </div>
+                        
                         <!--
                     <div class="form-group">
                         <div class="form-check">
@@ -114,6 +115,9 @@
                 <img src="../Imagenes/IrisLab%20Logo%20LARGOa.png" style="max-height: 150px" class="img-fluid" alt="Responsive image" />
             </div>
         </div>
+
+
+
     </div>
     <!-- Bootstrap core JavaScript-->
     <script src="/vendor/jquery/jquery.min.js"></script>

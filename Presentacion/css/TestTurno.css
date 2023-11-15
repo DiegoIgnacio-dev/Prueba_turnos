@@ -1,0 +1,161 @@
+﻿*{
+    font-family: 'Poppins', sans-serif;
+}
+
+/*Animaciones del panel visor de turnos*/
+
+@keyframes animacion{
+    0%{background-color:#2589bd;
+       
+       
+    }
+    50%{background-color:red;
+        
+    } 
+    100%{background-color:#2589bd;
+          
+    }   
+}
+
+
+
+.CartaAnim{
+    
+    animation-name:animacion;
+    animation-duration:0.8s;
+    animation-iteration-count:10;
+}
+
+.cardB{
+    /*margin:65px;*/
+    animation-name:animacion;
+    animation-duration:0.8s;
+    animation-iteration-count:10;
+
+}
+
+.card-header{
+    font-family:'Poppins';
+    font-size:1.5rem;
+    font-weight:900;
+    color:white;
+}
+
+.card-body{
+    font-family:'Poppins';
+    font-weight:600;
+    color:white;
+}
+
+.text_card{
+    color:white;
+}
+.card-footer{
+    color:white;
+}
+
+
+
+
+/**Estilo del panel de impresiones*/
+
+
+#PanelServicio{
+    max-width:45rem;
+    margin:0 auto;
+    
+}
+
+#title{
+    font-family:'Poppins';
+    background-color:#006699;
+    font-weight:300;
+    color:#ffffff;
+    font-size:2.2rem;
+}
+
+#img-logo{
+    width:20rem;
+    margin-left:1rem;
+    margin-top:1rem;
+}
+
+/*Cuerpo del ticket*/
+#vistaTicket{
+    width:20rem;
+    margin:0 auto;
+}
+#tr_Turno{
+    font-family:'Poppins';
+    border-radius:5px;
+    background-color:#006699;
+    font-weight:900;
+    height:2rem;
+}
+
+#tr_Info{
+    border-radius:0px; 
+    text-align: center;
+    background-color: #2589bd;
+    color: white;
+}
+
+.TR_LET{
+    font-weight:900;
+    font-family:'Poppins';
+    font-size:4rem;
+}
+.TR_NUM{
+    font-weight:600;
+    font-family:'Poppins';
+    font-size:5rem;
+    padding-top:2rem;
+    padding-bottom:2rem;
+}
+
+div#tr_Foot{
+    border-radius:5px;
+    font-weight:200;
+    background-color:#006699;
+    font-size:1.8rem;
+    height:3rem;
+    margin-top:10px;
+}
+h5#desc{
+    margin:20px auto;
+    color:#006699;
+    font-size:1.5rem;
+}
+
+/*Grupo de botones de seleccion de modulos*/
+#btn-group{
+    margin-left:30px;
+}
+
+#btn-General,#btn-Empresa,#btn-Examen,#btn-PCR{
+    width:10rem;
+    margin:2px auto;
+}
+
+.icon:hover{
+   
+   width:8rem;
+   border-radius:15px;
+}
+.icon:focus{
+   
+   width:7rem;
+   border-radius:15px;
+}
+.icon:active{
+   
+   width:7.7rem;
+   border-radius:15px;
+}
+
+
+#update:hover{
+    background-color:red;
+}
+
+

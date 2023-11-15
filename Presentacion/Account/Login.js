@@ -27,9 +27,10 @@ $(document).ready(function () {
             "dataType": "json",
             "timeout": 5000,
             "success": resp => {
-
+                
                 if (resp.d.LOGGED == true) {
                     //Registrar Cookies
+                    //aqui se registran las galletas
                     Galletas.setGalleta("LOGGED", resp.d.LOGGED, (60 * 300));
                     Galletas.setGalleta("ID_USER", resp.d.ID_USER, (60 * 300));
                     Galletas.setGalleta("NICKNAME", resp.d.NICKNAME, (60 * 300));
